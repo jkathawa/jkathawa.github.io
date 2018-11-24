@@ -4,11 +4,11 @@ View my résumé [here](https://jkathawa.github.io/files/Jason_Kathawa_Resume.pd
 
 ## Projects:
 
-#### Pig Stack:
+### Pig Stack:
 
-Coming Soon for iOS and Android!
+_Coming Soon for iOS and Android!_
 
-#### Tweet Generator:
+### Tweet Generator:
 
 FrEECS Tweet Generator is a machine learning program written in Python. It takes in any public twitter handle and outputs a realistic tweet for that handle.
 
@@ -19,9 +19,11 @@ The program was originally written for the final project of the Elemetary Progra
 Since then, FrEECS Tweet Generator has been Dockerized. Try now!
 
 ```bash
-docker build --name FrEECS .
-docker run FrEECS
+docker pull jkathawa/FrEECS # This repo is currently unavailable
+docker run jkathawa/FrEECS
 ```
+
+(Note: you must have Docker installed.)
 
 ## Contact:
 
