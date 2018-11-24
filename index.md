@@ -19,7 +19,7 @@ The program was originally written for the final project of the Elemetary Progra
 Since then, FrEECS Tweet Generator has been Dockerized. Try now!
 
 ```bash
-docker pull jkathawa/FrEECS
+docker pull jkathawa/FrEECS # This repo is currently unavailable
 docker run jkathawa/FrEECS
 ```
 
