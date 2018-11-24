@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Résumé:
 
-You can use the [editor on GitHub](https://github.com/jkathawa/jkathawa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+View my résumé [here](https://jkathawa.github.io/files/Jason_Kathawa_Resume.pdf)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects:
 
-### Markdown
+#### Pig Stack:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coming Soon for iOS and Android!
 
-```markdown
-Syntax highlighted code block
+#### Tweet Generator:
 
-# Header 1
-## Header 2
-### Header 3
+FrEECS Tweet Generator is a machine learning program written in Python. It takes in any public twitter handle and outputs a realistic tweet for that handle.
 
-- Bulleted
-- List
+User experience is provided by a GUI built using Tkinter and realistic tweet boxes.
 
-1. Numbered
-2. List
+The program was originally written for the final project of the Elemetary Programming Concepts course, and its team of 4 won first place at the showcase put on by the course as voted by the viewing companies.
 
-**Bold** and _Italic_ and `Code` text
+Since then, FrEECS Tweet Generator has been Dockerized. Try now!
 
-[Link](url) and ![Image](src)
+```bash
+docker build --name FrEECS .
+docker run FrEECS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkathawa/jkathawa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+jkathawa@umich.edu
