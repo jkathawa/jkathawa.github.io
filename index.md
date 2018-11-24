@@ -6,7 +6,7 @@ View my résumé [here](https://jkathawa.github.io/files/Jason_Kathawa_Resume.pd
 
 ### Pig Stack:
 
-Coming Soon for iOS and Android!
+_Coming Soon for iOS and Android!_
 
 ### Tweet Generator:
 
@@ -19,9 +19,11 @@ The program was originally written for the final project of the Elemetary Progra
 Since then, FrEECS Tweet Generator has been Dockerized. Try now!
 
 ```bash
-docker build --name FrEECS .
-docker run FrEECS
+docker pull jkathawa/FrEECS
+docker run jkathawa/FrEECS
 ```
+
+(Note: you must have Docker installed.)
 
 ## Contact:
 
