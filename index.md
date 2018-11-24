@@ -4,11 +4,11 @@ View my résumé [here](https://jkathawa.github.io/files/Jason_Kathawa_Resume.pd
 
 ## Projects:
 
-#### Pig Stack:
+### Pig Stack:
 
 Coming Soon for iOS and Android!
 
-#### Tweet Generator:
+### Tweet Generator:
 
 FrEECS Tweet Generator is a machine learning program written in Python. It takes in any public twitter handle and outputs a realistic tweet for that handle.
 
