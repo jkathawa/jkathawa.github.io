@@ -15,7 +15,6 @@ _Coming Soon for iOS and Android!_
 # please check back later.
 ```
 
-(Note: you must have Docker installed.)
 
 ## Contact:
 
