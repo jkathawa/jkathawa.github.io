@@ -1,6 +1,6 @@
 ## Résumé:
 
-View my résumé [here](https://jkathawa.github.io/files/Jason_Kathawa_Resume.pdf)!
+View my résumé [here](https://jkathawa.github.io/resume)!
 
 ## Projects:
 
