@@ -1,6 +1,6 @@
 ## Résumé:
 
-View my résumé [here](https://jkathawa.github.io/resume)!
+View my résumé [here](https://jkathawa.github.io/resume.pdf)!
 
 ## Projects:
 
